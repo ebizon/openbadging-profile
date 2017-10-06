@@ -1,4 +1,4 @@
-<b>What is an open Badging system?</b><br>
+<b><u>What is Open Badging system?</u></b><br><br>
 http://badgewin.com/wp-content/uploads/2016/01/open-badging-system-and-how-to-implement-it.pdf
 
 More info:
