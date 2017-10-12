@@ -1,8 +1,23 @@
 <b><u>What is Open Badging system?</u></b><br><br>
-http://badgewin.com/wp-content/uploads/2016/01/open-badging-system-and-how-to-implement-it.pdf
+
+The Open Badges (Open Badge Infrastructure or OBI) is basically a project initiated by Mozilla with a vision of encouraging lifelong learning process.
+
+It is an open technical standard developed by Mozilla.
+
+It extends the concept of digital badges by allowing for verification of the <ul>
+  <li>skills</li>
+<li>interests and achievements represented by badges</li>
+<li>identity of the badge earner</li></ul>
+
+Open Badges are designed to be portable between systems.
+
+The basic intention of OBI is to help people of all ages gain and display 21st century skills and unlock new career and educational opportunities.
+
+It is trying to make it easier for anyone to issue, earn and display badges across the web, through a shared technical infrastructure.
 
 More info:
 
+http://badgewin.com/wp-content/uploads/2016/01/open-badging-system-and-how-to-implement-it.pdf<br>
 https://www.drupal.org/project/OpenBadging<br>
 http://badgewin.com/drupal-open-badges-system
 
